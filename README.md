@@ -1,4 +1,3 @@
-SPLT, splitting and encrypting your files!
 <h1 align="center"> SPLT </h1>
 <h3 align="center"> <a href="https://loco81.ir/skills/SPLT"> Click here to visit SPLT on my site </a> </h3>
 <p align="center"> Splitting and encrypting your files!🙃 </p>
