@@ -1,4 +1,4 @@
-<h1 align="center"> SPLT </h1>
+<h1 align="center"> <img width="30" src="/images/icon.png" alt="LoCoToring" /> SPLT </h1>
 <h3 align="center"> <a href="https://loco81.ir/skills/SPLT"> Click here to visit SPLT on my site </a> </h3>
 <p align="center"> Splitting and encrypting your files!🙃 </p>
 <p align="center"> You may have already been familiar with the WinRar program, with this lightweight and practical program you can split large files into smaller pieces like WinRar and encrypt them with the program's advanced method!😉 After clicking on the program's setup file, the program will be automatically installed and introduced to your Windows, and the program will be run by writing SPLT in the Run window or command line, and files with the splt extension will be recognized by the program. Install it now and split your files or encrypt them😋 </p>
